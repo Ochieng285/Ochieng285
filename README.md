@@ -4,7 +4,7 @@
  <img src="https://komarev.com/ghpvc/?username=michaelx&style=flat-square&color=green" alt=""/>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
-  <a  align="center"><img  width="25%"src='https://avatars.githubusercontent.com/u/129984040?v=4'/></a>
+  <a  align="center"><img  width="25%"src='https://avatars.githubusercontent.com/u/157067679?v=4'/></a>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=green&size=27&center=true&vCenter=true&width=600&height=100&lines=THE+OFFICIAL+MICHAEL+OTIENO+ACCOUNT...">
