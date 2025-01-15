@@ -4,8 +4,7 @@
  <img src="https://komarev.com/ghpvc/?username=michaelx&style=flat-square&color=green" alt=""/>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
-
- ### *A Passionate Junior Data Analyst*  
+*A Passionate Junior Data Analyst*  
 ---
  
 
