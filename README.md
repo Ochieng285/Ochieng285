@@ -4,6 +4,27 @@
  <img src="https://komarev.com/ghpvc/?username=michaelx&style=flat-square&color=green" alt=""/>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
+
+ ### *A Passionate Junior Data Analyst*  
+---
+ 
+
+## About Me  
+
+I'm a junior data analyst specializing in data analysis and visualization using Python, advanced Excel, SQL, and Tableau. My goal is to extract insights and provide actionable solutions to complex data problems.
+
+---
+
+## Skills and Expertise  
+
+I specialize in data analysis with:
+
+- **Python** (NumPy, Pandas, Matplotlib)
+- **SQL** (MySQL, PostgreSQL)
+- **Data Visualization** (Tableau, Advanced Excel)
+- **IDEs and Tools** (VS Code, Jupyter Notebook)
+
+I prioritize accuracy, clarity, and efficiency in all my data projects.
   <a  align="center"><img  width="25%"src='https://avatars.githubusercontent.com/u/157067679?v=4'/></a>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
